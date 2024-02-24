@@ -1,6 +1,20 @@
 {
   "name": "mieotpl-react-antd-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "mieotpl-react-antd-ts",
+  "keywords": [
+    "mieotpl-react-antd-ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seymoe/mieotpl-react-antd-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seymoe/mieotpl-react-antd-ts/issues"
+  },
+  "homepage": "https://github.com/seymoe/mieotpl-react-antd-ts#readme",
+  "author": "seymoe",
+  "license": "MIT",
   "dependencies": {
     "@types/jest": "24.0.18",
     "@types/node": "12.7.5",
